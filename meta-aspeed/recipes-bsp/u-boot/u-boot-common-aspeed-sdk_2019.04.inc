@@ -12,8 +12,8 @@ PE = "1"
 #SRCREV = "09e0e88ee0e79e9fa967ac1fa03f589a5d7eface"
 #SRC_URI = "git://git@github.com/openbmc/u-boot.git;nobranch=1;protocol=https"
 # aspeed
-UBRANCH = "aspeed-master-v2019.04"
-SRCREV = "4e7e4f6d25f598f81382c1a86937c906aaf4e8bf"
+UBRANCH = "aspeed-dev-v2019.04"
+SRCREV = "e95e10afc085dd5de549468e4a161105782e1272"
 SRC_URI = "git://github.com/AspeedTech-BMC/u-boot;branch=${UBRANCH};protocol=https"
 
 
